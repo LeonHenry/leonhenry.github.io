@@ -41,7 +41,7 @@ for the Jekyll site. The defaults are:
 ```yml
 # Site settings
 title: Pixyll
-email: your_email@example.com
+email: imstorey77@gmail.com
 author: John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
