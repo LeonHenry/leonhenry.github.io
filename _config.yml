@@ -1,5 +1,5 @@
 # Site settings
-title:       Leon Henry
+title:       From the Desk of Leon Henry
 email:       imstorey77@gmail.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
@@ -103,7 +103,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'imstorey77@gmail.com'
+    email:    'your_email@example.com'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'
