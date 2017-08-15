@@ -5,4 +5,4 @@ permalink: /about/
 tags: about
 ---
 
-Leon Henry is a fiction writer based in Portland, Oregon
+Ian Storey writes in Portland, Oregon

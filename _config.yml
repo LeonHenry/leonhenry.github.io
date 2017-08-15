@@ -1,10 +1,10 @@
 # Site settings
-title:       From the Desk of Leon Henry
+title:       I.M. Storey
 email:       imstorey77@gmail.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "From the desk of I.M. Storey."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://leonhenry.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
