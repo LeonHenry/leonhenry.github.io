@@ -20,6 +20,21 @@
   color: #333;
 }
 
+.post-button {
+  padding: 8px 16px;
+  border-radius: 3px;
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none!important;
+}
+
+.post-button:hover {
+  background-color: grey;
+}
+
 .post-footer {
   @extend .italic;
 
