@@ -7,5 +7,12 @@ tags: about
 
 Ian Storey is a writer in Portland, Oregon. <br>
 <br>
-He writes fiction here, at <a href="imstorey.com">imstorey.com</a> and he writes about <a href= "https://medium.com/@storeyarc">business</a> and <a href="https://www.thestoreysofar.com/">design</a> as well. <br>
-He writes copy professionally for marketing websites at<a href= "https://thomasdigital.com/">Thomas Digital</a>
+<a href="{{ site.baseurl }}/category/fiction">Fiction</a>
+<br>
+<a href="{{ site.baseurl }}/category/criticism">Criticism</a>
+<br>
+<a href= "https://medium.com/@storeyarc">Business</a>
+<br>
+<a href="http://www.thestoreysofar.com/blog/">Design</a>
+<br>
+<a href= "https://thomasdigital.com/">Copy</a>
