@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 What was it to know the story of someone? He was sure that she was exactly as he had dreamed up. Misunderstood. Working to pay the bills so that she could pursue her true passion. What that was, he didn’t know yet.
 
-And she had her own story. That he was the type of man she dreamed of or at least, he was what she could dream up at this point in her life. There - present. A rock. Also working at the windowless grocery store they had met at to pursue his real passion. One that would surely pay the bills. What that was, she didn’t know yet.
+And she had her own story. That he was the type of man she dreamed of or at least, he was what she could dream up at this point in her life. There - present. A rock. Also working at the windowless grocery store they had met at to pursue his real passion. One that would surely pay the bills. What that was, she didn’t know yet.<!--more-->
 
 And this simplicity was so beautiful to them, that for the first three quarters of dinner they had a hard time even threatening the serenity of being together at first.
 
