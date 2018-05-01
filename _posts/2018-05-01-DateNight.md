@@ -6,7 +6,7 @@ category: fiction
 excerpt_separator: <!--more-->
 ---
 
-He looked at her and she looked at him and it was simple. There was something to it, sure. Something mysterious and wanting. Something underneath the perfectly crimped hair, the layers of shirts and sweaters and cuffs and sweaters, and their retinas. Everything unsaid could overflow, spill out onto the table and sustain the both of them for weeks. What hid behind everything they'd yet say? Was it soft and inviting? Or jagged and sinister? Neither knew yet. In that way, it was all simple. They were both old enough to know it and so they looked at each other, savoring. <!--more-->
+He looked at her and she looked at him and it was simple. There was something to it, sure. Something mysterious and wanting. Something underneath their retinas, the perfectly crimped hair, the layers of shirts and sweaters and cuffs. Everything unsaid could overflow, spill out onto the table and sustain the both of them for weeks. What hid behind everything they'd yet to say? Was it soft and inviting? Or jagged and sinister? Neither knew yet. In that way, it was all simple. They were both old enough to know it and so they looked at each other, savoring. <!--more-->
 
 What was it to know the story of someone? He was sure that she was exactly as he had dreamed up. Misunderstood. Working to pay the bills so that she could pursue her true passion. What that was, he didn’t know yet.
 
