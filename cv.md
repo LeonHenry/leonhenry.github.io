@@ -1,36 +1,35 @@
-<!-- ---
+---
 layout: page
 title: CV
 permalink: /cv/
 tags: cv
---- -->
-<!-- Fiction
+---
+<h2>Fiction</h2>
 
-imstorey
+<a href="http://imstorey.com/">imstorey.com</a>
 
-Copy
+<h2>Copy</h2>
 
-Hillsdale Liquor - Site Copy http://www.hillsdaleliquor.com/
-PDX Coffee Club - Mission Statement https://www.pdxcoffee.club/about/ Site Copy http://www.pdxcoffeeclub.com/
-Thomas Digital - Portfolio Pieces https://thomasdigital.com/portfolio-items/
+Hillsdale Liquor - <a href="http://www.hillsdaleliquor.com/">Site Copy</a><br>
+PDX Coffee Club - <a href="https://www.pdxcoffee.club/about/">Mission Statement</a><br>
+Thomas Digital - <a href="https://thomasdigital.com/portfolio-items/">Portfolio Pieces</a>
 
+<h2>Guest Posts</h2>
 
-Thomas Digital
+Thomas Digital - <a href="https://thomasdigital.com/2017/08/30/im-font-websites-fonts-say/">Im Very Font of You</a>
 
-Guest Posts:
+<h2>Blog</h2>
 
-Cosmonaut Music - Dark/Light - Kill Some Time
-Thomas Digital - Im very Font of You https://thomasdigital.com/2017/08/30/im-font-websites-fonts-say/
+<a href="https://www.thestoreysofar.com/">www.thestoreysofar.com</a>
 
+<h2>The Future of Grocery</h2>
+
+<a href="http://thefutureofgrocery.com/">www.thefutureofgrocery.com</a>
+
+<h2>Podcast</h2>
+
+<a href="https://soundcloud.com/reviewsnooneaskedfor">Reviews No One Asked For</a>
+
+<h2>Misc.</h2>
 
 Linfield Review, film critic, 2010 - 2012
-
-Academic
-
-Thesis
-
-Journal www.thestoreysofar.com
-
-The Future of Grocery www,thefutureofgrocery.com
-
-Podcast - Reviews No One Asked For -->
