@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: post
 title:  "Date Night"
-date:   2018-05-01 16:16:01 -0600
+date:   2017-08-01 16:16:01 -0600
 category: fiction
 excerpt_separator: <!--more-->
---- -->
+---
 
 He looked at her and she looked at him and it was simple. There was something to it, sure. Something mysterious and wanting. Something underneath their retinas, the perfectly crimped hair, the layers of shirts and sweaters and cuffs. Everything unsaid could overflow, spill out onto the table and sustain the both of them for weeks. What hid behind everything they'd yet to say? Was it soft and inviting? Or jagged and sinister? Neither knew yet. In that way, it was all simple. They were both old enough to know it and so they looked at each other, savoring. <!--more-->
 
