@@ -2,7 +2,7 @@
 layout: post
 title:  "Frictionless Shopping"
 date:   2019-07-01 16:16:01 -0600
-category: nonfiction
+category: Nonfiction
 excerpt_separator: <!--more-->
 ---
 
