@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title:  "Date Night"
 date:   2017-08-01 16:16:01 -0600
 category: fiction
