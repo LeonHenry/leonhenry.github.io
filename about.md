@@ -14,7 +14,6 @@ Ian Storey is a writer in Portland, Oregon. <br>
 <a href="{{ site.baseurl }}/category/nonfiction">Nonfiction</a>
 <br>
 <br>
-Other <a href="https://www.thestoreysofar.com/">stuff</a>
 <br>
 <!--<a href="http://www.thestoreysofar.com/blog/">Design</a>
 <br>
