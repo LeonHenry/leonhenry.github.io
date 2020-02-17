@@ -7,6 +7,9 @@ tags: about
 
 Ian Storey is a writer in Portland, Oregon. <br>
 <br>
+<a href="{{ site.baseurl }}/cv">CV</a>
+<br>
+<br>
 <a href="{{ site.baseurl }}/category/fiction">Fiction</a>
 <br>
 <a href="{{ site.baseurl }}/category/criticism">Criticism</a>
