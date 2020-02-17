@@ -1,9 +1,10 @@
----
-layout: category
+<!-- ---
+layout: page
 title: Reportage
-category: Reportage
----
-Portland State Vanguard:
+permalink: /reportage/
+tags: reportage
+--- -->
+<h2>Portland State Vanguard:</h2>
 
 Arts and Culture:
 https://psuvanguard.com/comedy-for-peace/
