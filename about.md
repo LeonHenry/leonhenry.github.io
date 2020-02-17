@@ -30,9 +30,10 @@ Ian Storey is a writer in Portland, Oregon. <br>
 <br>
 <a href="{{ site.baseurl }}/reportage">Reportage</a>
 <br>
+<br>
 Visual Art
 <br>
-<a href="{{ site.baseurl }}/category/nonfiction">Drawing</a>
+<a href="http://kidgruesome.art">Drawing</a>
 <br>
 <a href="{{ site.baseurl }}/category/nonfiction">Podcast</a>
 <!--<a href="http://www.thestoreysofar.com/blog/">Design</a>
