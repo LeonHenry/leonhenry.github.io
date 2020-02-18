@@ -7,7 +7,7 @@ tags: about
 
 Ian Storey is a writer in Portland, Oregon. <br>
 <br>
-<a href="{{ site.baseurl }}/cv">CV</a>
+<!-- <a href="{{ site.baseurl }}/cv">CV</a> -->
 <br>
 <br>
 <a href="{{ site.baseurl }}/category/fiction">Fiction</a>
@@ -35,7 +35,7 @@ Visual Art
 <br>
 <a href="http://kidgruesome.art">Drawing</a>
 <br>
-<a href="{{ site.baseurl }}/category/nonfiction">Podcast</a>
+<a href="{{ site.baseurl }}/category/portlanders">Portlanders Podcast</a>
 <!--<a href="http://www.thestoreysofar.com/blog/">Design</a>
 <br>
 <a href="{{ site.baseurl }}/copywriting">Copy</a>
