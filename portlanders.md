@@ -1,7 +1,7 @@
 <!-- ---
 layout: page
 title: Portlanders
-permalink: /portlanders/
+permalink: /portlandersabout/
 tags: portlanderspod
 --- -->
 
