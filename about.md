@@ -30,6 +30,8 @@ Ian Storey is a writer in Portland, Oregon. <br>
 <br>
 <a href="{{ site.baseurl }}/reportage">Reportage</a>
 <br>
+<a href="{{ site.baseurl }}/category/portlanders">Portlanders</a>
+<br>
 <br>
 Visual Art
 <br>

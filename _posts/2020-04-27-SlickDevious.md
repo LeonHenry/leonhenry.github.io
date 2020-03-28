@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Portlanders: Slick Devious"
+date:   2020-04-27 16:16:01 -0600
+category: portlanders
+excerpt_separator: <!--more-->
+---
+He hands me a click pen, emblazoned on the side reads “Casual Anger”. Slick Devious is a thoughtful kind of person. His gaze is all encompassing and unmoved. He doesn’t sleep much, but is very put together. Casual Anger is the culmination of years of creative output.  In the time since starting the project, he has moved apartments, held jobs, got engaged and then married. I met him through a mutual friend and collaborator of ours. Slick is one of the rare creatives whose point of view is without pretension. Though we don’t know each other well, to talk with Slick is like talking to a friend. 
+
+We’re at his friend’s house, blocks away from his own apartment which is blocks away from the home he grew up in.  He sits on a couch in front of one of his own paintings, the Plaid Pantry logo, a ubiquitous chain of convenience stores in the Pacific Northwest.  Its bright primaries in thick acrylic on a 4 x 4 square canvas. “Its kind of preservation of these places that I’ve gone to and seen my whole life because that stuff will eventually be gone so it still kind of exists in a weird way”.
+
+Today, we sit in the living room talking while the rest of the house goes about their work.  Drum kits are bashed, bass strings are plucked, chicken katsu is eaten, jokes cracked and current events commented on. Artistic intention permeates every corner of the house. A full fledged studio in the basement, amplifiers on the main floor and a drum-kit upstairs. Art, the frameless kind, done by friends, adorns the walls.  those familiar with art spaces might assume from this description that it is a dim and cluttered kind of place but on the contrary, this home is well put together, well dressed and neat, a reflection of the artists who live there. At the center of this movement, we sit. He is as i’ve always known him, at ease, curious, thoughtful.   
+
+Not long into our conversation, a drum beat starts to play in the background as one of the roommates practices keeping time.
+
+——-
+
+It seems to me, more like a monument to that period of time. From Portal till now, I sing a lot more. I can rap real hard on anything, but If I express myself truthfully, I gotta sing.
+
+I rarely ever draft something in a technical way, i’ve done that in art school and stuff, but for me, I don’t ever hold myself to the critique of super mastery because I am more on the abstract expressionistic side of things. I don’t know even how to count bars.  I think with rapping- up until very recently- I just kind of write it around a beat I have. If you know the verse, You just make it work. Rap to me, doesn’t require vast technical knowledge as oppose to some other forms of music making.  Even if you’re not a great band, you’ve got to have some knowledge of how to play a guitar, if not, then its just kind of noise, its not really “writing music”. I suppose you could freestyle, I guess that would be something like noise… but I would prefer to write rather than freestyle because you cant really freestyle a song, you know, with a chorus.
+
+——-
+
+I don't really know what else to rap about-its part of my life. I was born and raised here. Its changed so much. Its a simultaneous thing- Becoming an adult at the same time that this city is becoming a whole different place… and trying to survive in it. The idea of having pride in your town but also being kind of resentful of it at the same time. And also Realizing that its going to be tough to buy a house. Its all there and its all a part of my daily thoughts. That BMW shit ( song) I mean i’m on the MAX everyday and sometimes that shit hella sucks, but sometimes its cool to see your surroundings and suck that shit in.
+
+To me, in a lot of ways, rap is all about community. I mean, any rapper, group, person, that you could name, they're very referential to where they’re from- at least all of the people that I grew up listening to- I mean anybody, thats a huge part of their thing too. So I feel like If I'm gonna be apart of this, I want to do justice to my little zipcode. Its not even about Portland.  This neighborhood has no body but me doing this shit. I’ve got to represent Rose City Park.  
+
+It can go beyond just being here. Portland is just a microcosm… in order to be a successful member of society at any level, you’ve got to compromise. You go through shit all the time. Especially in America with the way shit it is.  With the president, with the healthcare, with the police, if you're just chillin’ completely,  and not feeling a level of casual anger? … but you cant be out here raging against the machine all the time, you still have to handle your shit.
+
+I saw some article about how the Matrix isn’t relatable anymore, because the idea of having a comfy office job thats decent is like some type of hell, but so many people in the world would love to have a regular chill office job that provides them with enough to live. Thats the thing too, this idea that thats a struggle- as I get closer to 30 years old, I’m becoming an adult, theres the whole aspect of trying to be an artist and how you want to spend your time, then at the same time theres the question of how do you have a professional career thats progressing as well? Its a difficult thing to kind of…  Using your time exactly as you want to be using it but at the same time, any artist that is a full time artist has to make so many sacrifices too. Its just a difficult process to deal with.
+
+Being involved with your community, there are ways to develop your passions and still earn a living. Thats why teachers, I think, have one of the best jobs. Good ones do it because they love it, they can also do a creative and soul filling thing.
+
+The idea of making money off of art to me is something thats really weird. Obviously its something I would prefer to do, its never been about that but at the same time if you want to fully invest and become that professional artist, you have to be about that. If i give someone a painting is one thing but if I have to sell it, it gives me some sort of anxiety. At the same time, its got to go out into the world.  It makes it weird, doing all of this commercial shit when I just want to put out this project, but you have to go through those channels so that its taken seriously… I don’t want to make mistakes because I didn’t try a little harder… Casual Anger.. its not a philosophy but its kind of a rule, I mean its like a balance, like, life is beautiful but life is hard.  
+
+Then again, its hard to label what is essentially a bunch of rhymes… The big time artists, the ones in the books, every piece they have, they could give an essay about it, but deep down I don’t believe it…
+
+———
+
+I’m from a certain age group also- by the time I was 21 Portland was a whole different place. My perspective on the city- When I talk about it and when I say what I like about it, it isn’t the same as whats broadcasted into the world… I don't like to talk about this shit but the idea of Portlandia is not what I would consider, as a life long citizen here, my reality. Even though its all around me, but thats what causes the anger, the anger towards what the city has become - and im white. I’m white from this neighborhood. Thats a whole layer to it. My perspective too is I’m a white fuckin rapper from a middle class neighborhood in Portland.
+
+Thats why I’ve got to be who I am. I have to tell the truth about my reality because what else am i going to talk about it? I can’t be out here making shit up. Its part of who I am as a rapper.
+
+When I think abut race in my work, I think about the corniness of other white rappers. I have to be good, but I also need a level of humor and self realization. If i’m out here trying to be eminem wearing a durag- I feel like a lot of white rappers feel like they have to be this extra, cartoon ass person and its just not necessary. At the end of the day, hip hop is a black and latinx art form, at the end of the day, thats what it is, so if in any hip hop community if it were purely white people that'd be fucked up, wouldn't matter if it was portland or anywhere. I mean any community that has any level of cultural diversity is going to have a diverse music scene because music doesn't belong to one place. For me, its music. Im aware of my white priviledge, especially living in the city like this that has the history it has and is not a very culturally diverse place, but where I’m from, I did grow up in a more diverse place than the average white person in portland. Thats part of my story as well, maybe that helps me out.
+
+Its hard for me to say the word gentrification, because I am a white guy from a middle class neighborhood, but its still impacted me and the people around me. The idea of all these people flocking to a place to live a certain idea, its like San Francisco and those other cities, you’re not going there just because its a cool place to live, you’re going there for a certain aesthetic and lifestyle that you’re trying to get and it makes a monoculture. You’ve seen it throughout history, in many cities like New York and other types of places, they’ve gotten white washed, not just in a racial way, but also in a weird capitalist way.
