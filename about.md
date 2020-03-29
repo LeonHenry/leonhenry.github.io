@@ -5,12 +5,10 @@ permalink: /about/
 tags: about
 ---
 
-Ian Storey is a writer in Portland, Oregon. <br>
+Ian Storey is a writer in Portland, Oregon.
 <br>
 <!-- <a href="{{ site.baseurl }}/cv">CV</a> -->
-<br>
-<br>
-<a href="{{ site.baseurl }}/category/fiction">Fiction</a>
+<!--<a href="{{ site.baseurl }}/category/fiction">Fiction</a>
 <br>
 <a href="{{ site.baseurl }}/category/criticism">Criticism</a>
 <br>
@@ -25,8 +23,8 @@ Ian Storey is a writer in Portland, Oregon. <br>
 <a href="{{ site.baseurl }}/category/nonfiction">Essays</a>
 <br>
 <a href="{{ site.baseurl }}/category/nonfiction">Opinion</a>
-<br>
-<a href="{{ site.baseurl }}/category/nonfiction">Journal</a>
+<br> -->
+<a href="{{ site.baseurl }}/category/nonfiction">Nonfiction</a>
 <br>
 <a href="{{ site.baseurl }}/reportage">Reportage</a>
 <br>
