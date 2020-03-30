@@ -15,6 +15,7 @@ Arts and Culture:
 <a href="https://psuvanguard.com/a-necessary-irritant/">A Necessary Irritant</a>
 <br>
 <a href="https://psuvanguard.com/a-conversation-with-ander-monson/">Gnome Stories: A conversation with Ander Monson</a>
+<br>
 Opinion:
 <br>
 <a href="https://psuvanguard.com/frictionless-shopping-amazon-goes-full-dystopian/">Frictionless Shopping</a>
