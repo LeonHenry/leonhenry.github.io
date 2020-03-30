@@ -1,8 +1,8 @@
 # Site settings
-title:       I.M. Storey - First Year Masters in Urban Studies @ Portland State
+title:       I.M. Storey - essays, reportage and other writing
 email:       istorey@pdx.edu
 author:      John Otander
-description: "Ian M. Storey - Masters in Urban Studies Candidate at Portland State University"
+description: "From the desk of Ian M. Storey"
 baseurl:     ""
 url:         "http://leonhenry.github.io"
 date_format: "%b %-d, %Y"
