@@ -9,6 +9,13 @@ a {
   // text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
+a.gruesome{
+  color: #be0000;
+  font-size: 1.2em;
+  font-style: italic;
+  fony-family: Fixed, monospace;
+}
+
 a:hover,
 a:focus,
 a:active {
