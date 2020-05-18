@@ -37,7 +37,6 @@ Writing
 <br>
 <br>
 <a class="gruesome" href="http://kidgruesome.art" target="_blank">Stay Gruesome</a>
-<!--<a href="http://www.thestoreysofar.com/blog/">Design</a>
 <br>
 <a href="{{ site.baseurl }}/copywriting">Copy</a>
 <br>
