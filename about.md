@@ -37,8 +37,3 @@ Writing
 <br>
 <br>
 <a class="gruesome" href="http://kidgruesome.art" target="_blank">Stay Gruesome</a>
-<br>
-<a href="{{ site.baseurl }}/copywriting">Copy</a>
-<br>
-<a href="{{ site.baseurl }}/cv">CV</a>
-<br>-->
