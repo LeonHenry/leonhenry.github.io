@@ -48,4 +48,13 @@ div.posts a:hover {
 
 div.posts a.post-button {
   color: white;
+  background-color: #0DA712;
+}
+
+article.post-content a{
+  color: #900C3F;
+}
+
+article.post-content a:hover{
+  opacity: 0.88;
 }
