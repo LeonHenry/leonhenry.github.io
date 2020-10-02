@@ -1,15 +1,17 @@
 # Site settings
-title:       I.M. Storey - essays, reportage and other writing
+title:       Ian Storey - Animator and Illustrator
 email:       i.m.storey77@gmail.com
 author:      John Otander
-description: "From the desk of Ian M. Storey"
+description: "From the desk of Ian Storey, Animator and illustrator"
 baseurl:     ""
 url:         "http://leonhenry.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
+ - home.md
  - about.md
  - contact.html
- - cv.md
+ - portfolio.md
+ - shop.md
 
 # Google services
 google_verification:

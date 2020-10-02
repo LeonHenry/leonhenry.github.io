@@ -32,3 +32,20 @@ body {
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+div.posts a {
+  color: #900C3F;
+}
+
+div.posts a:hover {
+  opacity: 0.50
+}
+
+div.posts a.post-button {
+  color: white;
+}

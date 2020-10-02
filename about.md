@@ -35,5 +35,5 @@ Writing
 <br>
 <a href="{{ site.baseurl }}/category/portlanders">Portlanders</a>
 <br>
-<br>
-<a class="gruesome" href="http://kidgruesome.art" target="_blank">Stay Gruesome</a>
+<!--<br>
+<a class="gruesome" href="http://kidgruesome.art" target="_blank">Stay Gruesome</a>-->
