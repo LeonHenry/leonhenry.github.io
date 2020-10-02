@@ -6,10 +6,10 @@
     {% assign page = site.pages | where: "path", path | first %}
 
     {% if page.title %}
-        <a href="{{ page.url }}" target="_blank">{{ page.title }}</a>
+        <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 
 
 {% endfor %}
 
-<a href="https://artbyianstorey.com/">SHOP</a>
+<a href="https://artbyianstorey.com/" target="_blank">SHOP</a>
