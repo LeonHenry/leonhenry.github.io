@@ -1,6 +1,7 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
+
 }
 
 .site-header a {
@@ -12,6 +13,25 @@
 
 .site-header .site-title {
   font-size: $h2;
+  font-family: Arial;
+    color: black;
+}
+.animator {
+  color: #ffc012;
+  font-size: $h2;
+  font-family: Arial;
+}
+
+.illustrator {
+  color: #1900ff;
+  font-size: $h2;
+  font-family: Arial;
+}
+
+.artist {
+  color: #c60000;
+  font-size: $h2;
+  font-family: Arial;
 }
 
 .site-nav {
@@ -19,7 +39,7 @@
 }
 
 .site-header nav a {
-  color: #f59542;
+  color: black;
 }
 
 .site-header nav a:hover,
@@ -28,6 +48,8 @@
 
   opacity: 1;
   border-bottom: 2px solid;
+  border-top: 2px solid;
+
 }
 
 .site-nav a + a {
@@ -38,7 +60,8 @@
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.88;
+  color: #E4008D ;
+  opacity: 0.88 ;
 }
 
 .site-header {
@@ -46,7 +69,7 @@
 }
 
 .site-title a {
-  color: blue;
+  color: black;
 }
 
 .site-header .site-nav {

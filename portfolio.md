@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Portfolio
+title: Pictures
 permalink: /portfolio/
 tags: portfolio
 ---
 
-a teste tes test
+Frame By Frame Animation
+
+{% include youtube_embed.html id="zu6APmk9X7Y" %}
+
+{% include youtube_embed.html id="zu6APmk9X7Y" %}
+
+{% include youtube_embed.html id="zu6APmk9X7Y" %}
+
+Painting
+
+{% include youtube_embed.html id="zu6APmk9X7Y" %}
