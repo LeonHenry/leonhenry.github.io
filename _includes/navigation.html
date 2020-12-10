@@ -1,6 +1,12 @@
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
 
+<a href="https://ianstorey.carbonmade.com/" class="pics" target="_blank">Pictures</a>
+
+<a href="{{ page.url }}/motion/" class="motion">Motion</a>
+
+<a href="{{ page.url }}" class="writing">Writing</a>
+
 {% for path in page_paths %}
 
     {% assign page = site.pages | where: "path", path | first %}

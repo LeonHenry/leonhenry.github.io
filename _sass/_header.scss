@@ -46,7 +46,7 @@
 .site-header nav a:focus,
 .site-header nav a:active {
 
-  opacity: 1;
+  opacity: 0.5;
   border-bottom: 2px solid;
   border-top: 2px solid;
 
@@ -60,7 +60,7 @@
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  color: #E4008D ;
+
   opacity: 0.88 ;
 }
 
@@ -74,4 +74,19 @@
 
 .site-header .site-nav {
   text-align: center;
+}
+
+.site-nav .pics {
+  color: #1900ff;
+
+}
+
+.site-nav .writing {
+  color: #c60000;
+
+}
+
+.site-nav .motion {
+  color: #ffc012;
+
 }

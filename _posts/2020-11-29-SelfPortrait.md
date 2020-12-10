@@ -6,10 +6,11 @@ category: 5songs
 excerpt_separator: <!--more-->
 ---
 
+I turn 31 today. This is the first self portrait i’ve done in over a year, since then my way of making has completely changed so i thought with this post i’d reflect a little.
+<!--more-->
+
 ![PDX](/images/selfportrait31.jpg){:class="img-responsive"}
 
-I turn 31 today. This is the first self portrait i’ve done in over a year, since then my way of making has completely changed so i thought with this post i’d reflect a little. Read if you dare.
-<!--more-->
 This time a year ago I was the sickest i’d ever been, bed ridden, wishing the days would pass faster so I could feel better again. Almost a week later, I kicked the flu but was still very ill. When the day that I would feel like myself again finally came it wasn’t until months later, after many sleepless nights, difficult decisions and solitude.
 
 We’ve all aged more this year than the calendar shows, but looking back on November 29th 2019 There is seemingly a many years long gulf. Today, i’m happier than I can remember, more bold than ever, more grateful than ever and more than all of that, i’m better equipped to keep on learning. My roommate asked me what I was excited about in my life and my immediate response was “the next day, the next 3 hours that I get to work and see what happens”, I think the younger me would have had to think long and hard about it.

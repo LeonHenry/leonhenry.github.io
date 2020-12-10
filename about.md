@@ -9,11 +9,6 @@ Ian Storey is an artist in Portland, Oregon.
 <br>
 <a href="https://twitter.com/k_gruesome" target="_blank">Twitter</a> + <a href="https://www.instagram.com/i.m.storey/" target="_blank">Instagram</a>
 
-<br>
-<a href="{{ site.baseurl }}/category/nonfiction">Nonfiction</a>
-<br>
-<a href="{{ site.baseurl }}/category/portlanders">Portlanders</a>
-<br>
 <!-- <a href="{{ site.baseurl }}/cv">CV</a> -->
 <!--<a href="{{ site.baseurl }}/category/fiction">Fiction</a>
 <br>

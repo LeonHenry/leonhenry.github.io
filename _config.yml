@@ -7,9 +7,6 @@ baseurl:     ""
 url:         "http://leonhenry.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - portfolio.md
- - motion.md
- - home.md
  - about.md
  - shop.md
 
