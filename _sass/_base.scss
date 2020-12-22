@@ -43,13 +43,17 @@ div.posts a {
   color: #ffa200;
 }
 
-div.posts a:hover {
-  opacity: 0.50
-}
+
 
 div.posts a.post-button {
   color: white;
-  background-color: #0DA712;
+  background-color: #55ffb0;
+  box-shadow: 2px 5px #888888;
+}
+
+div.posts a:hover {
+  opacity: 0.50;
+  box-shadow: none;
 }
 
 article.post-content a{
