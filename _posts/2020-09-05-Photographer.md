@@ -12,6 +12,8 @@ excerpt_separator: <!--more-->
 ![PDX](/images/BereniceAbbott.png){:class="img-responsive"}
 Original available at <a href="https://www.artbyianstorey.com">artbyianstorey.com</a>
 
+<!--more-->
+
 I don't feel like I really understand photography.  In 2020, its everywhere you look. Every feed at my desk and in my pocket is full of high definition pictures, static and moving.  I don't think of myself a photographer and yet I snap at least a few every day.  With so  many photo ops, It feels like a good picture is simply a matter of happenstance, you know, finger on the button at the right place at the right time.  I feel kind of jaded about it... and then someone comes along and knocks me on my ass.
 
 Berenice Abbott is one of those photographers.
@@ -19,9 +21,6 @@ Berenice Abbott is one of those photographers.
 {% include youtube_embed.html id="XFhSjDZ66UU" %}
 
 Process video (ft. Gershwin)
-
-<!--more-->
-
 
 When it comes to city living, Abbott's photos have a place in almost everyone's imagination.  Even if you've never heard her name, chances are you've seen her photos, and even then, if those cityscapes or portraits were completely new to you, I would guess that there is some sort of familiarity in her work.
 
