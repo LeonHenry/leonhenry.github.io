@@ -34,6 +34,15 @@
   font-family: Arial;
 }
 
+.open {
+  color: green;
+}
+
+.open:hover {
+  background-color: green;
+  color:white;
+}
+
 .site-nav {
   margin-top: $space-2;
 }
@@ -46,9 +55,11 @@
 .site-header nav a:focus,
 .site-header nav a:active {
 
-  opacity: 0.5;
-  border-bottom: 2px solid;
-  border-top: 2px solid;
+  // opacity: 0.5;
+  // border-bottom: 2px solid;
+  // border-top: 2px solid;
+  color: White;
+  background-color: black;
 
 }
 
@@ -81,12 +92,49 @@
 
 }
 
+.site-nav .pics:hover,
+.site-nav .pics:focus,
+.site-nav .pics:active {
+  color: white;
+  background-color: #1900ff;
+
+}
+
 .site-nav .writing {
   color: #c60000;
 
 }
 
+.site-nav .writing:hover,
+.site-nav .writing:focus,
+.site-nav .writing:active {
+  color: white;
+  background-color: #c60000;
+
+}
+
 .site-nav .motion {
   color: #ffc012;
+
+}
+
+.site-nav .motion:hover,
+.site-nav .motion:focus,
+.site-nav .motion:active {
+  color: white;
+  background-color: #ffc012;
+
+}
+
+.site-nav .study {
+  color: green;
+
+}
+
+.site-nav .study:hover,
+.site-nav .study:focus,
+.site-nav .study:active {
+  color: white;
+  background-color: green;
 
 }
