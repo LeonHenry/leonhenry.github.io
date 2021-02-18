@@ -145,7 +145,7 @@ Seein' Tigers
 <div class="center">
 $500
 <br>
-30 X 40, Acrylic on canvas
+16 X 20, Acrylic on canvas
 <br>
 <a href="{{ site.url }}/contact">Email</a> to inquire
 </div>
@@ -161,7 +161,7 @@ Anthony Bourdain (Print)
 <div class="center">
 $75
 <br>
-11 X 17, artiste matte
+16 X 20, Velvet Matte
 <br>
 <a href="{{ site.url }}/contact">Email</a> to inquire
 </div>
@@ -174,7 +174,7 @@ Seein' Tigers (Print)
 <div class="center">
 $50
 <br>
-16 X 16, artiste matte
+11 X 17, Textured matte
 <br>
 <a href="{{ site.url }}/contact">Email</a> to inquire
 </div>
