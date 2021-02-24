@@ -174,7 +174,20 @@ Seein' Tigers (Print)
 <div class="center">
 $50
 <br>
-11 X 17, Textured matte
+11 X 17, Textured Fine Art Paper
+<br>
+<a href="{{ site.url }}/contact">Email</a> to inquire
+</div>
+<br>
+<br>
+<br>
+<br>
+James Baldwin
+![PDX](/images/JamesBaldwin.jpg){:class="img-responsive"}
+<div class="center">
+$75
+<br>
+18 X 18, Textured Fine Art Paper
 <br>
 <a href="{{ site.url }}/contact">Email</a> to inquire
 </div>
