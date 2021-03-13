@@ -21,7 +21,7 @@ This comes naturally because deep down there is something unmovable: I am discon
 
 To that end, it has never been about the works produced but the working. Pieces are only complete as a way of compromising with the world.  A handshake with the inner world and the outer world where the inner makes an effort towards clarity and the outer gives up its rigidity. Individually contained pieces are not so much done as they are left behind. They are mile markers that dot a secret trail- it hugs the ridges of an impossible mountain range. What pulls me down this path is not simply self expression but a search for what is true.
 
-In this way, there is no difference between the artist and the philosopher.
+In this way, there is no difference between the art and philosophy.
 
 The artist and the philosopher share an identity assumed by those who cannot deny what civilized society ignores. This is not to be confused with the territory staked out by The Partisans. (The banner carriers, whatever label they wear: Capitalist, Communist, Socialist, Libertarian, Reformer, Catholic, Hindu, Atheist, etc.) Though they may use the same language they are an anathema to the curious and the creative.  
 
