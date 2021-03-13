@@ -8,8 +8,6 @@ tags: about
 Hi, my name's Ian Storey and I am an artist living in Portland, Oregon.
 <br>
 <br>
-<br>
-<br>
 I lead <a href="https://www.twitch.tv/tigersharksstudygroup">a daily drawing study group</a>, Monday through Friday from 8am to 10am. The goal with this group is to dedicate two hours a day to studying the fundamentals (like anatomy, perspective, and color) and ultimately, improving.
 <br>
 <br>
@@ -41,7 +39,7 @@ You can find more of my work below:
 
 <h1>Artist Statement</h1>
 
-The examined life is a steady unfolding
+The examined life is a steady unfolding.
 
 I do not intend to make the world a more beautiful place through pretty pictures, nor do I endeavor to resist the status quo or anything more lofty (though I will take great pleasure in arguing for all of these things).
 
@@ -60,8 +58,6 @@ In this way, there is no difference between the artist and the philosopher.
 The artist and the philosopher share an identity assumed by those who cannot deny what civilized society ignores. This is not to be confused with the territory staked out by The Partisans. (The banner carriers, whatever label they wear: Capitalist, Communist, Socialist, Libertarian, Reformer, Catholic, Hindu, Atheist, etc.) Though they may use the same language they are an anathema to the curious and the creative.  
 
 The truth is not one thing, nor is it static, so to pursue it, one must go out looking.  Voyages to end up in discovery and get dashed upon the rocks. To leave no stone unturned. To sail and sail again, and then dock and plan for the next thing. The stable ground preferred by the partisans (in a word: orthodoxy), does not sustain the artist and provides little safety- the opposite of its intended effect. It is here where the partisans and artists are at axiomatic odds: The artist finds loneliness without solitude in conformity and aloneness and freedom in solitude.
-
-Connective Tissue.
 
 Being attentive to so many possibilities, turning over every stone simply to do it, rather than fulfill any ambition, the artist is a sensitive kind of person. Living this way, attempting to understand what curiosity yields brings about many emotions and states, “the stuff of life”. Drawing and painting then help understand these states.  
 
