@@ -5,8 +5,6 @@ date:   2021-03-12 16:16:01 -0600
 category: Nonfiction
 excerpt_separator: <!--more-->
 ---
-<h1>Artist Statement</h1>
-
 The examined life is a steady unfolding <!--more-->
 
 I do not intend to make the world a more beautiful place through pretty pictures, nor do I endeavor to resist the status quo or anything more lofty (though I will take great pleasure in arguing for all of these things).
