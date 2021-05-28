@@ -39,7 +39,6 @@ $800
 Young David Byrne
 ![PDX](/images/DavidByrne.jpg){:class="img-responsive"}
 <div class="center">
-$800
 <br>
 24 X 30, Acrylic on canvas
 <br>
@@ -65,7 +64,6 @@ $200
 BBQT
 ![PDX](/images/Gabbie.jpg){:class="img-responsive"}
 <div class="center">
-$400
 <br>
 16 X 20, Acrylic on canvas
 <br>
@@ -78,7 +76,6 @@ $400
 Berenice Abbott
 ![PDX](/images/BereniceAbbott.png){:class="img-responsive"}
 <div class="center">
-$350
 <br>
 20 X 16, Acrylic on canvas
 <br>
@@ -91,7 +88,6 @@ $350
 Danner Still Life
 ![PDX](/images/Boot1.jpg){:class="img-responsive"}
 <div class="center">
-$200
 <br>
 14 X 11, Acrylic on canvas
 <br>
@@ -104,7 +100,6 @@ $200
 Danner Still Life II
 ![PDX](/images/Boot2.jpg){:class="img-responsive"}
 <div class="center">
-$200
 <br>
 14 X 11, Acrylic on canvas
 <br>
@@ -117,7 +112,6 @@ $200
 Waiting for the other shoe to drop
 ![PDX](/images/Boot3.jpg){:class="img-responsive"}
 <div class="center">
-$200
 <br>
 14 X 11, Acrylic on canvas
 <br>
@@ -130,7 +124,6 @@ $200
 Vans
 ![PDX](/images/Vans.jpg){:class="img-responsive"}
 <div class="center">
-$200
 <br>
 14 X 11, Acrylic on canvas
 <br>
@@ -143,7 +136,6 @@ $200
 Seein' Tigers
 ![PDX](/images/Tiger.jpg){:class="img-responsive"}
 <div class="center">
-$500
 <br>
 16 X 20, Acrylic on canvas
 <br>
