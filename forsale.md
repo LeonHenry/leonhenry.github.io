@@ -36,6 +36,19 @@ The Bitterroots
 <br>
 <br>
 
+Anthony Bourdain
+![PDX](/images/AnthonyBourdain.jpg){:class="img-responsive"}
+<div class="center">
+<br>
+30 X 40, Acrylic on canvas
+<br>
+<a href="{{ site.url }}/contact">Email</a> to inquire
+</div>
+<br>
+<br>
+<br>
+<br>
+
 James Baldwin
 ![PDX](/images/JamesBaldwin.jpg){:class="img-responsive"}
 <div class="center">
