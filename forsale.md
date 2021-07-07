@@ -1,14 +1,41 @@
 ---
 layout: page
-title: SHOP
-permalink: /shop/
+title: Past Work
+permalink: /portfolio/
 tags: cv
 ---
 <h3>The following are available and for sale.</h3>
 
 <a href="{{ site.url }}/contact">Inquire</a> for private showings
 
-<h1> Original Paintings </h1>
+<h1> Recent Work </h1>
+
+Lewis Mumford
+![PDX](/images/Mumford.jpeg){:class="img-responsive"}
+<div class="center">
+<br>
+24 X 30, Acrylic on canvas
+<br>
+<a href="{{ site.url }}/contact">Email</a> to inquire
+</div>
+<br>
+<br>
+<br>
+<br>
+
+The Bitterroots
+![PDX](/images/Landscape.jpeg){:class="img-responsive"}
+<div class="center">
+<br>
+30 X 24, Acrylic on canvas
+<br>
+<a href="{{ site.url }}/contact">Email</a> to inquire
+</div>
+<br>
+<br>
+<br>
+<br>
+
 James Baldwin
 ![PDX](/images/JamesBaldwin.jpg){:class="img-responsive"}
 <div class="center">
@@ -22,11 +49,22 @@ James Baldwin
 <br>
 <br>
 
+Dog Toa
+![PDX](/images/SkullFinal.jpg){:class="img-responsive"}
+<div class="center">
+<br>
+Book Cover
+<br>
+<a href="{{ site.url }}/contact">Email</a> to inquire
+</div>
+<br>
+<br>
+<br>
+<br>
 
 Jay Reatard
 ![PDX](/images/JayReatard.jpg){:class="img-responsive"}
 <div class="center">
-$800
 <br>
 36 X 36, Acrylic on canvas
 <br>
@@ -48,10 +86,11 @@ Young David Byrne
 <br>
 <br>
 <br>
+
+
 Old David Byrne
 ![PDX](/images/DavidByrne2.jpg){:class="img-responsive"}
 <div class="center">
-$200
 <br>
 16 X 20, Acrylic on canvas
 <br>
