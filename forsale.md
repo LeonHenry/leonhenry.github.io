@@ -50,7 +50,7 @@ James Baldwin
 <br>
 
 Dog Toa
-![PDX](/images/SkullFinal.jpeg){:class="img-responsive"}
+![PDX](/images/skullFinal.jpg){:class="img-responsive"}
 <div class="center">
 <br>
 Book Cover
