@@ -65,5 +65,7 @@ As the examined life unfolds, each twist yields new vistas.  The artist observes
 
 All of that said, art is not simply meditation. I have to share what I make with you because I love so personally and thoroughly what has been shared with me.  And, because I love so effusively, I am just as angry.
 
+end about
+
 <!--<br>
 <a class="gruesome" href="http://kidgruesome.art" target="_blank">Stay Gruesome</a>-->
