@@ -8,11 +8,10 @@ tags: about
 Hi, my name's Ian Storey and I am an artist living in Portland, Oregon.
 <br>
 <br>
-I lead <a href="https://www.twitch.tv/tigersharksstudygroup">a daily drawing study group</a>, Monday through Friday from 8am to 10am. The goal with this group is to dedicate two hours a day to studying the fundamentals (like anatomy, perspective, and color) and ultimately, improving.
-<br>
-<br>
-<a href="https://twitter.com/k_gruesome" target="_blank">Twitter</a> + <a href="https://www.instagram.com/i.m.storey/" target="_blank">Instagram</a>
-<br>
+![PDX](/images/aboutphoto.jpeg){:class="img-responsive"}
+
+<!--
+I lead <a href="https://www.twitch.tv/tigersharksstudygroup">a daily drawing study group</a>, Monday through Friday from 8am to 10am. The goal with this group is to dedicate two hours a day to studying the fundamentals (like anatomy, perspective, and color) and ultimately, improving. -->
 
 <!-- <a href="{{ site.baseurl }}/cv">CV</a> -->
 <!--<a href="{{ site.baseurl }}/category/fiction">Fiction</a>
@@ -31,11 +30,7 @@ I lead <a href="https://www.twitch.tv/tigersharksstudygroup">a daily drawing stu
 <br>
 <a href="{{ site.baseurl }}/category/nonfiction">Opinion</a>
 <br> -->
-<br>
-You can find more of my work below:
-<br>
-<a href="{{ site.baseurl }}/reportage">Reportage</a>
-<br>
+
 
 <h1>Artist Statement</h1>
 
@@ -65,7 +60,14 @@ As the examined life unfolds, each twist yields new vistas.  The artist observes
 
 All of that said, art is not simply meditation. I have to share what I make with you because I love so personally and thoroughly what has been shared with me.  And, because I love so effusively, I am just as angry.
 
-end about
+<br>
+<a href="https://twitter.com/k_gruesome" target="_blank">Twitter</a> + <a href="https://www.instagram.com/i.m.storey/" target="_blank">Instagram</a>
+<br>
 
+<br>
+You can find more of my work below:
+<br>
+<a href="{{ site.baseurl }}/reportage">Reportage</a>
+<br>
 <!--<br>
 <a class="gruesome" href="http://kidgruesome.art" target="_blank">Stay Gruesome</a>-->
