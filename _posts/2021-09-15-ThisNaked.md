@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Reccomensday: This Naked Mind"
+date:   2021-09-15 16:16:01 -0600
+category: Nonfiction
+excerpt_separator: <!--more-->
+---
+![PDX](/images/thisNaked.jpg){:class="img-responsive"}
+
+Recommensday: This Naked Mind by Annie Grace
+
+I’ve read a lot of books on addiction and this has been by far the most helpful.  The pandemic presented… lets say, irrefutable evidence of my dependence. This is news to no one, a lot of us are there- a morning walk on recycling day says enough.  I had to pick it up because of its subject matter and because I’ve seen this book recommended everywhere: from friends to podcasters.
+
+
+
+Krishnamurti, a great philosopher (that will without a doubt show up on on another Reccomensday) argued that the key to understanding not just addiction but any problem or contradiction can be worked out simply by understanding it completely. That is, to understand every facet of the problem, not just intellectually but emotionally too, leads the knot of contradiction to undo itself. There is no ‘trying’, there is no will power required, it just is. To use his metaphor, once you truly understand something that hurts you, it becomes a hot stove, you have no resistance to it, there is simply no reason or desire to touch it.  Coming to that understanding is both a matter of intellect and experience. This Naked Mind walks the reader through the problem of drinking, and in the spirit of Krishnamurti, aims to get the reader to understand alcohol rather than actively resist it. This method, as the author makes very clear, stands in stark contrast to the Alcoholics Anonymous philosophy on sobriety.
+
+
+
+What follows is a piecemeal approach to alcohol. This is effective because the author takes the scientific and pyscholgical facts about alcohol and uses them to address the substance from every angle. She does this through research and data as well as penetrating questions and relatable stories. Her express goal is to “integrate” our subconscious view of alcohol with our conscious one. She does this deliberately with chapters meant specifically to speak to these parts of the mind. This makes reading the book an active experience rather than a passive one. The writing is concise and direct, as the reader works through This Naked Mind, they will question their personal relationship with alcohol and better understand the alcohol’s context in society at large.  What hooked me were the first few pages- I kept reading because the Author’s struggle was so close to my own.
+
+
+
+I did not intend to read this book and become some Ned Flanders teetotaler but rather to regain control over alcohol in my life after relying on it for some time. That said, after finishing This Naked Mind and experimenting a little, I could see giving it up altogether… I’m not saying I will and so far I haven’t been successful, but I feel confident in that choice should I choose to make it. Not drinking has not become a matter of resistance but rather disinterest.  When I have had an interest, those times when I chose to party, were more meaningful and well… appropriate.  There was less drinking altogether and where there was, it was cause for celebration with friends, not the numbing chase so familiar. When things did go too far and I came to the next morning with a hangover and a sick stomach, I also carried with me a cold weight of understanding- The sadness that lingered knew its cause.
+
+
+
+This book lends clarity to alcohol’s role in our lives.  For me this is overdue, sure, but Annie Grace’s approach helps to isolate the substance and see it with clarity. If you’ve gone on streaks of sobriety only to fall back into old habits This Naked Mind is a helpful tool in your arsenal to help break that cycle. The bottom line: There is a whole lot of material on this subject, but This Naked Mind works.
