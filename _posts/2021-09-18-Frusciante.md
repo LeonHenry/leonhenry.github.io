@@ -5,6 +5,8 @@ date:   2021-09-15 16:16:01 -0600
 category: Nonfiction
 excerpt_separator: <!--more-->
 ---
+![PDX](/images/Empyrean.jpg){:class="img-responsive"}
+
 Dark/Light is one of the most effecting songs written in the last 30 years, but I don't know anyone who has ever heard it.<!--more--> Despite John Frusciante’s career creatively leading one of history’s greatest rock and roll bands, few have followed his solo work. It's a worthwhile rabbit hole to fall down.
 
 
