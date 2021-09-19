@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 ![PDX](/images/Empyrean.jpg){:class="img-responsive"}
 
-Dark/Light is one of the most effecting songs written in the last 30 years, but I don't know anyone who has ever heard it.<!--more--> Despite John Frusciante’s career creatively leading one of history’s greatest rock and roll bands, few have followed his solo work. It's a worthwhile rabbit hole to fall down.
+Dark/Light is one of the most affecting songs written in the last 30 years, but I don't know anyone who has ever heard it.<!--more--> Despite John Frusciante’s career creatively leading one of history’s greatest rock and roll bands, few have followed his solo work. It's a worthwhile rabbit hole to fall down.
 
 
 {% include youtube_embed.html id="0Gms1YZuf7U" %}
@@ -31,4 +31,4 @@ I am singling out Dark/Light because it stirs me so deeply: it is like a vivid m
 
 Eight and a half minutes of powerhouse. An EP unto itself. True to the form suggested by its title, the song starts from the boughs of a pitying darkness and then ascends to somewhere bright. Placed next to each other the transition feels like a kind of transcendence, it overwhelms. The rest of the song is four and a half minutes of Frusciante guitar meets gospel chant. Chopped up and edited here and there, the groove of a bass line brings it together. (Yes, I love this song but four minutes of anything in a song is way too much if you ask me.) The gospel influence gives it a certain majesty that some will find successfully dramatic or just plain corny. Hauntingly catchy, loving though sorrowful with every lyric, the song has the same fanciful highs and painful lows as unrequited love.
 
-I always preferred John Frusciante’s solo discography to the Red Hot Chilli Pepper's. To be sure, each band appeals to a different kind of listener. Taken together they compliment each other.  The fact that Frusciante does both is a testament to a rare talent.
+I always preferred John Frusciante’s solo discography to the Red Hot Chili Pepper's. To be sure, each band appeals to a different kind of listener. Taken together they compliment each other.  The fact that Frusciante does both is a testament to a rare talent.
