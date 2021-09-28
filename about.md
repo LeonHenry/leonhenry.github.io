@@ -63,6 +63,14 @@ All of that said, art is not simply meditation. I have to share what I make with
 <br>
 <a href="https://twitter.com/k_gruesome" target="_blank">Twitter</a> + <a href="https://www.instagram.com/i.m.storey/" target="_blank">Instagram</a>
 <br>
+<br>
+<h1>Profile</h1>
+I studied the humanities at Linfield College with philosopher of sport, Jesus Illundain, ethicist and pragmatist Kaarina Beam, and philosopher gone rogue Seth Tichenor. I learned how to draw with Luke Zimmerman and conceptual art with Cris Moss.  Brian Winkwenweder, art critic taught me art history and most importantly, how to write.  I graduated with a bachelors of arts in philosophy, a minor in visual culture and another minor in political science.
+After college I continued my education in drawing and painting in Portland, Oregon with Phil Sylvester at The Drawing Studio. There I learned to develop my voice and after a few years of drawing, eventually made the leap into painting.
+An ill fated foray into the white color world led me back to blue color work where I could survive and continue my practice. From there, my mentors were illustrators from afar and history: Berne Hogarth, Andrew Loomis, and George Bridgman. Eventually taking course work through the pandemic at the Watts Atelier. Though my work is primarily expressive, I value close and technical study of the human figure to develop my craft.
+In the time since studying at The Drawing Studio I have taken residences at True North Studios and Civilian Studios, ultimately ending up where I began, my easel arms length from my bed.
+
+ All of the above coupled with a letter from a family friend, a birthday letter from an old coworker, valentines messages from my 5th/6th grade blend class, and a goodbye letter from my old coworkers at my most recent grocery job (as of this writing), all of this drew me towards the creative life that I continue to pursue today.
 
 <br>
 You can find more of my work below:
