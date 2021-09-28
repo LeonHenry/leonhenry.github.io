@@ -10,6 +10,10 @@ Hi, my name's Ian Storey and I am an artist living in Portland, Oregon.
 <br>
 ![PDX](/images/aboutphoto.jpeg){:class="img-responsive"}
 
+<br>
+<a href="https://twitter.com/k_gruesome" target="_blank">Twitter</a> + <a href="https://www.instagram.com/i.m.storey/" target="_blank">Instagram</a>
+<br>
+
 <!--
 I lead <a href="https://www.twitch.tv/tigersharksstudygroup">a daily drawing study group</a>, Monday through Friday from 8am to 10am. The goal with this group is to dedicate two hours a day to studying the fundamentals (like anatomy, perspective, and color) and ultimately, improving. -->
 
@@ -61,16 +65,14 @@ As the examined life unfolds, each twist yields new vistas.  The artist observes
 All of that said, art is not simply meditation. I have to share what I make with you because I love so personally and thoroughly what has been shared with me.  And, because I love so effusively, I am just as angry.
 
 <br>
-<a href="https://twitter.com/k_gruesome" target="_blank">Twitter</a> + <a href="https://www.instagram.com/i.m.storey/" target="_blank">Instagram</a>
-<br>
 <br>
 <h1>Profile</h1>
 I studied the humanities at Linfield College with philosopher of sport, <a href="https://www.linfield.edu/faculty/jilunda.html">Jesus Illundain</a>, ethicist and pragmatist, <a href="https://www.linfield.edu/faculty/kbeam.html">Kaarina Beam</a>, and philosopher gone rogue, <a href="https://www.youtube.com/user/sethtichenor">Seth Tichenor</a>. I learned how to draw with <a href="https://willamette.edu/arts-sciences/arts/exhibitions/rogers/zimmerman-gallery/index.html">Luke Zimmerman</a> and conceptual artist, <a href="https://whitebox.uoregon.edu/team/">Cris Moss</a>.  Art critic, <a href="https://www.linfield.edu/faculty/bwinken.html">Brian Winkwenweder</a>, taught me art history and most importantly, how to write.  I graduated with honors with a bachelors of arts in philosophy, a minor in visual culture and another minor in political science.
 After college I continued my education in drawing and painting in Portland, Oregon with <a href="https://thedrawingstudio.wildapricot.org/">Phil Sylvester at The Drawing Studio</a>. There, I discovered my voice and after a few years of drawing, eventually made the leap into painting.
-An ill fated foray into the white color world led me back to blue color work where I could survive and continue my practice. From then on, my mentors were accomplished illustrators from history: Berne Hogarth, Andrew Loomis, and George Bridgman. And also painters from afar: <a href="https://daverapoza.carbonmade.com/">Dave Rapoza</a> and <a href="https://www.richardschmid.com/">Richard Schmid</a>. Eventually, when the pandemic hit, I took course work online through the <a href="https://www.wattsatelier.com/">Watts Atelier</a>. Though my work is primarily expressive, I value close and technical study of the human figure to develop my craft.
+An ill fated foray into the white color world led me back to blue color work where I could survive and continue my practice. From then on, my mentors were accomplished illustrators from history: Berne Hogarth, Andrew Loomis, and George Bridgman. And also painters still living though from afar: <a href="https://daverapoza.carbonmade.com/">Dave Rapoza</a>, <a href="https://jamesgurney.com/">James Gurney</a>, and <a href="https://www.richardschmid.com/">Richard Schmid</a>. Eventually, when the pandemic hit, I took course work online through the <a href="https://www.wattsatelier.com/">Watts Atelier</a>. Though my work is primarily expressive, I value close and technical study of the human figure to develop my craft.
 In the time since studying at The Drawing Studio I have taken residences at <a href="https://www.truenorthstudios.org/">True North Studios</a> and <a href="https://www.civilianstudiospdx.com/">Civilian Studios</a>, ultimately ending up where I began, my easel arms length from my bed.
 
- All of the above coupled with a letter from a family friend, a birthday letter from an old coworker, valentines messages from my 5th/6th grade blend class, and a goodbye letter from my peers at my most recent grocery job (as of this writing), have led me towards the creative life that I continue to pursue today.
+ All of the above coupled with a letter from a family friend, a birthday letter from an old coworker, valentines messages from my 5th/6th grade blend class, a goodbye letter from my peers at my most recent grocery job (as of this writing), and the love, support and rivalry of my close friend and fellow artist, <a href="https://www.dakotarandall.com/">Dakota Randall</a>, have led me towards the creative life that I continue to pursue today.
 
 <br>
 You can find more of my work below:
