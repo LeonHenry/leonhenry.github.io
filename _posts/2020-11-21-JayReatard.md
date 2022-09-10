@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Thoughts on Sorrow"
+title:  "Jay Reatard"
 date:   2021-11-21 16:16:01 -0600
 category: Nonfiction
 excerpt_separator: <!--more-->
 ---
+
+![PDX](/images/JayReatard.jpg){:class="img-responsive"}
 Jay Reatard, acrylic on canvas, 30 x 40
+<!--more-->
 
 Painted with reference from a photo by Tom Oxley for NME
 
