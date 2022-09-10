@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jay Reatard"
-date:   2021-11-21 16:16:01 -0600
+date:   2020-11-21 16:16:01 -0600
 category: Nonfiction
 excerpt_separator: <!--more-->
 ---
