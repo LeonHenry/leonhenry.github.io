@@ -138,3 +138,29 @@
   background-color: green;
 
 }
+
+.site-nav .newsletter {
+  color: #FF7833;
+
+}
+
+.site-nav .newsletter:hover,
+.site-nav .newsletter:focus,
+.site-nav .newsletter:active {
+  color: white;
+  background-color: #FF7833;
+
+}
+
+.site-nav .portfolio {
+  color: #006115;
+
+}
+
+.site-nav .portfolio:hover,
+.site-nav .portfolio:focus,
+.site-nav .portfolio:active {
+  color: white;
+  background-color: #006115;
+
+}

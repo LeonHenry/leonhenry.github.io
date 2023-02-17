@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Past Work
 permalink: /portfolio/
 tags: cv
----
+--- -->
 <h3>The following are available and for sale.</h3>
 
 <a href="{{ site.url }}/contact">Inquire</a> for private showings
