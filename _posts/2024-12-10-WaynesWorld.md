@@ -14,4 +14,4 @@ Wayne’s World is one of my favorite movies of all time. When I was in 5th grad
 
 I forgot I made this 5 years ago and I am so happy I did.
 
-DM me or comment on this with your theories as to what Wayne is doing.
+Email me with your theories as to what Wayne is doing.
